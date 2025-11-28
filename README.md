@@ -27,16 +27,20 @@ Lung-Cancer-Analytics-AI-System/
 ├─ data/
 │   ├─ raw_dataset.csv
 │   └─ lung_cancer_cleaned_vFinal.csv
+
 ├─ notebooks/
 │   ├─ 01_data_cleaning.ipynb
 │   ├─ 02_eda_analysis.ipynb
 │   ├─ 03_feature_engineering.ipynb
 │   └─ 04_machine_learning_models.ipynb
+
 ├─ models/
 │   ├─ random_forest.pkl
 │   └─ logistic_regression.pkl
+
 ├─ powerBI_dashboard/
 │   └─ LungCancer_Analytics.pbix
+
 └─ chatbot/
     └─ medical_chatbot.py
 
@@ -131,4 +135,21 @@ A scalable foundation for real hospital integration.
 
 ## 🔧 How to Run
 
+git clone https://github.com/Mohamed934789/Lung-Cancer-Data-Analysis.git
+
+cd project-folder
+pip install -r requirements.txt
+jupyter notebook
+
+
+Power BI → open `.pbix`  
+Chatbot → run `medical_chatbot.py`
+
+---
+
+## 👤 Author  
+**Mohamed Kassab — AI/Data Science Engineer**  
+🔬 Machine Learning | Analytics | Healthcare Systems  
+
+⭐ If you like this project, don't forget to star the repository!
 
