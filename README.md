@@ -25,25 +25,20 @@ We transformed raw clinical data → into insights → dashboards → machine le
 
 Lung-Cancer-Analytics-AI-System/
 ├─ data/
-│  ├─ raw_dataset.csv
-│  └─ lung_cancer_cleaned_vFinal.csv
-│
+│   ├─ raw_dataset.csv
+│   └─ lung_cancer_cleaned_vFinal.csv
 ├─ notebooks/
-│  ├─ 01_data_cleaning.ipynb
-│  ├─ 02_eda_analysis.ipynb
-│  ├─ 03_feature_engineering.ipynb
-│  └─ 04_machine_learning_models.ipynb
-│
+│   ├─ 01_data_cleaning.ipynb
+│   ├─ 02_eda_analysis.ipynb
+│   ├─ 03_feature_engineering.ipynb
+│   └─ 04_machine_learning_models.ipynb
 ├─ models/
-│  ├─ random_forest.pkl
-│  └─ logistic_regression.pkl
-│
+│   ├─ random_forest.pkl
+│   └─ logistic_regression.pkl
 ├─ powerBI_dashboard/
-│  └─ LungCancer_Analytics.pbix
-│
+│   └─ LungCancer_Analytics.pbix
 └─ chatbot/
-   └─ medical_chatbot.py
-
+    └─ medical_chatbot.py
 
 
 ---
