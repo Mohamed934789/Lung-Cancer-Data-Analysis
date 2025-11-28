@@ -1,4 +1,4 @@
-# 📌 Lung Cancer Analytics & AI Decision Support System  
+# 🫁🦠 Lung Cancer Analytics & AI Decision Support System  
 ### 🔥 End-to-End Data Science Project (EDA + Power BI + Machine Learning + Chatbot)
 
 ---
